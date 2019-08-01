@@ -1,5 +1,5 @@
 # Uma Todo List utilizando React Hooks
-Uma todo list utilizando o hook useReducer para a manipulação dos states e uma Modal para excluir itens.
+Uma todo list utilizando o hook useReducer() com dispatchs e uma Modal para exclusão de todo itens.
 
 Main:
 
